@@ -1,8 +1,8 @@
 # Gemini keyboard
 
-![Gemini](images/gemini.jpg)
-
 ![Gemini](images/gemini2.jpg)
+
+![Gemini](images/gemini.jpg)
 
 独自配列、分割40キーの35%キーボードです。
 
